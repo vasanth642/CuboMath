@@ -31,4 +31,3 @@ def fibonacci(n: int) -> int:
     value = (phi ** n - psi ** n) / sqrt5
     return int(value.to_integral_value(rounding=ROUND_HALF_EVEN))
 
-
