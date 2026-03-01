@@ -1,5 +1,7 @@
 # CuboMath
 
+![CuboMath Banner](assets/CuboMath.gif)
+
 CuboMath is an open-source Python mathematics library built as a playground for mathematical ideas.
 
 It is a place where contributors can bring interesting math functions, clever shortcuts, elegant formulas, and creative approaches to problem solving — all implemented cleanly in Python.
