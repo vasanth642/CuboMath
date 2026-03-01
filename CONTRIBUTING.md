@@ -74,14 +74,14 @@ Function Requirements:
 
 ### Writing Tests
 
-Test are mandatory for any function that is created.
+Tests are mandatory for any function that is created.
 - Add tests inside the tests/ directory
 - Use clear and simple test cases
 - Focus on correctness
 
 Steps to write test and run locally:
-- Create a separate  test file for each function and place it in the directory: CUBOMATH/tests/.
-- write  tests using the unittest library from python since it has been used as a standard testing tool for CuboMath.
+- Create a separate  test file for each function and place it in the directory: tests/.
+- Write tests using the unittest library from python since it has been used as a standard testing tool for CuboMath.
 - in the terminal install the library locally in editable  mode using the command:
 ```bash
 pip install -e .
