@@ -74,7 +74,7 @@ Function Requirements:
 
 ### Writing Tests
 
-Test are mandatory for anny function that is created.
+Test are mandatory for any function that is created.
 - Add tests inside the tests/ directory
 - Use clear and simple test cases
 - Focus on correctness
@@ -94,10 +94,7 @@ this command will run all the test files .
 - If you want to test your specific test file, use the command:
 ```bash
 python tests/your_testfile.py
-
-
-
-
+```
 
 ### Code Style Guidelines
 
