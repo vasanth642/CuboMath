@@ -80,9 +80,9 @@ Test are mandatory for any function that is created.
 - Focus on correctness
 
 Steps to write test and run locally:
-- Create a seperate  test file for each function and place it in the directory: CUBOMATH/tests/.
+- Create a separate  test file for each function and place it in the directory: CUBOMATH/tests/.
 - write  tests using the unittest library from python since it has been used as a standard testing tool for CuboMath.
-- in the terminal install the library locally in editable  mode using the comand:
+- in the terminal install the library locally in editable  mode using the command:
 ```bash
 pip install -e .
 ```
@@ -121,7 +121,7 @@ git commit -m "Add: new math function for XYZ"
 git push origin feature/your-math-magic
 ```
 
-4.Open a pull request from github to the upstream.
+4.Open a pull request from GitHub to the upstream.
 
 ### Pull Request Guidelines:
 In your pull request, describe:
