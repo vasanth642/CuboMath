@@ -41,7 +41,23 @@ meets open-source contribution.
 
 CuboMath can be installed using pip.
 
-### Install from PyPI
-
 ```bash
 pip install cubomath
+```
+
+## Quick example:
+```python
+from cubomath import fibonacci
+
+print(fibonacci(70))
+#output:190392490709135
+```
+
+## Contributing:
+
+Contributions are very welcome  
+Take the potions class in **CONTRIBUTING.md** before diving in!
+
+## License
+
+MIT License © 2026 Vasanth
